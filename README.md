@@ -22,9 +22,9 @@ I'm a passionate and driven student currently pursuing my third year in the Comp
 ---
 <style></style>
 
-| Education   | Skills |
-| ----------------------------  | -------------------------------------------- |
-|- Computer Programmer Analyst<br>- Seneca Polytechnic, 2022 - 2025<br>- Projects: Web422A6, Web322A6, OOP345 Final Assignment | <div class="row" style="display:flex"><div class="col" style="border-right:solid">Languages: <br> - C <br>- C++ <br> - Python<br> - SQL, NoSQL</div><div class="col" style="padding-left:10px">Web Development:<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br>- Bootstrap<br>- Node.js<br>- Next.js</div></div>|
+| <div>Education</div> | <div style="width:100%"> Skills </div> |
+| --- | --- |
+|<div style="width:85%">- Computer Programmer Analyst<br>- Seneca Polytechnic, 2022 - 2025<br>- Projects: Web422A6, Web322A6, OOP345 Final  </div>| <div class="row" style="display:flex"><div class="col" style="border-right:solid">Languages:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> - C <br>- C++ <br> - Python<br> - SQL, NoSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="col" style="padding-left:10px">Web Development:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br>- Bootstrap<br>- Node.js<br>- Next.js</div></div>|
 
 <!--
 ### Skills:
