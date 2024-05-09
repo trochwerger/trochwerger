@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 I'm a passionate and driven student currently pursuing my third year in the Computer Programmer Analyst Program at Seneca Polytechnic. With a focus on web development, I've garnered substantial experience in various programming languages and technologies. My skill set encompasses both frontend and backend development, enabling me to create seamless and robust web applications.
 
 ---
-### Education:
-- Computer Programmer Analyst Program
-    - Seneca Polytechnic, 2022 - 2025
-    - Projects: Web422A6, Web322A6, OOP345 Final Assignment
+<style></style>
 
----
+| Education   | Skills |
+| ----------------------------  | -------------------------------------------- |
+|- Computer Programmer Analyst<br>- Seneca Polytechnic, 2022 - 2025<br>- Projects: Web422A6, Web322A6, OOP345 Final Assignment | <div class="row" style="display:flex"><div class="col" style="border-right:solid">Languages: <br> - C <br>- C++ <br> - Python<br> - SQL, NoSQL</div><div class="col" style="padding-left:10px">Web Development:<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br>- Bootstrap<br>- Node.js<br>- Next.js</div></div>|
+
+<!--
 ### Skills:
 - Languages:
     - C
@@ -41,7 +42,7 @@ I'm a passionate and driven student currently pursuing my third year in the Comp
     - Bootstrap
     - Node.js
     - Next.js
-
+-->
 <!-- 
 Projects:
 
