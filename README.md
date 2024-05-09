@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 #### About Me:
-I'm a passionate and driven student currently pursuing my third year in the Computer Programmer Analyst Program at Seneca Polytechnic. With a focus on web development, I've garnered substantial experience in various programming languages and technologies. My skill set encompasses both frontend and backend development, enabling me to create seamless and robust web applications.
+I'm a passionate and driven student currently pursuing my third year in the Computer Programmer Analyst Program at Seneca Polytechnic. With a focus on web development, I've gained substantial experience in various programming languages and technologies. My skill set encompasses both frontend and backend development, enabling me to create seamless and robust web applications.
 
 ---
 
