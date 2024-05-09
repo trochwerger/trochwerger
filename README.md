@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I'm a passionate and driven student currently pursuing my third year in the Computer Programmer Analyst Program at Seneca Polytechnic. With a focus on web development, I've garnered substantial experience in various programming languages and technologies. My skill set encompasses both frontend and backend development, enabling me to create seamless and robust web applications.
 
 ---
-<style></style>
 
 | <div>Education</div> | <div style="width:100%"> Skills </div> |
 | --- | --- |
